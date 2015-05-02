@@ -1,0 +1,9 @@
+Error[1224] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 91 : configuration setting 'PLLSEL' not recognized
+Error[1224] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 92 : configuration setting 'CFGPLLEN' not recognized
+Error[1224] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 94 : configuration setting 'LS48MHZ' not recognized
+Error[1225] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 95 : configuration value 'INTOSCIO' not recognized for configuration setting 'FOSC'
+Error[1224] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 99 : configuration setting 'nPWRTEN' not recognized
+Error[1224] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 101 : configuration setting 'nLPBOR' not recognized
+Error[1225] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 102 : configuration value 'SWON' not recognized for configuration setting 'WDTEN'
+Error[1224] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 104 : configuration setting 'PBADEN' not recognized
+Error[1224] Y:\Henge_docks\design\motor_controller\bootloader\bootloader_r1\main.c 106 : configuration setting 'SDOMX' not recognized
